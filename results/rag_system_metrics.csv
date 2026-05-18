@@ -1,0 +1,7 @@
+Query,Expected_Dataset,Actual_Dataset,Correct_Selection,Num_Books,Time(ms)
+mystery thriller books,books.csv,books.csv,True,3,2157.2318077087402
+blue book cover,kaggle,kaggle,True,3,1108.9608669281006
+science fiction space,books.csv,books.csv,True,3,1254.0850639343262
+dark cover mystery,kaggle,kaggle,True,3,1330.1208019256592
+romantic novels,books.csv,books.csv,True,3,1799.9298572540283
+green colored book,kaggle,kaggle,True,3,966.3610458374023

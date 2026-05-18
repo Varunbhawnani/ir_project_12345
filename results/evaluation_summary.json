@@ -1,0 +1,24 @@
+{
+  "evaluation_date": "2025-11-28T05:42:54.804711",
+  "components_evaluated": [
+    "text_search",
+    "visual_search",
+    "rag_system"
+  ],
+  "text_search": {
+    "best_method": "Hybrid",
+    "best_ndcg": 0.9499,
+    "best_precision": 0.1,
+    "avg_response_time": 182.5609
+  },
+  "visual_search": {
+    "avg_color_score": 0.79374,
+    "avg_clip_score": 0.24203999999999998,
+    "avg_response_time": 311.12681999999995
+  },
+  "rag_system": {
+    "dataset_selection_accuracy": 1.0,
+    "avg_response_time": 1436.1149072647095,
+    "total_queries_tested": 6
+  }
+}
